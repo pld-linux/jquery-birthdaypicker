@@ -2,7 +2,7 @@
 Summary:	Attempts to mimic the functionality of the birthday select lists on the Facebook signup page
 Name:		jquery-%{plugin}
 Version:	1.4
-Release:	1
+Release:	2
 License:	MIT/GPL
 Group:		Applications/WWW
 Source0:	https://github.com/abecoffman/birthdaypicker/archive/834bca8/%{plugin}-%{version}.tar.gz
